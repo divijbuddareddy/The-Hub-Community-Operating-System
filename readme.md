@@ -174,7 +174,3 @@ This project transforms community management from a manual process into an AI-dr
 B.Tech Artificial Intelligence & Machine Learning
 
 AI Agents • Community Intelligence • Automation • Generative AI
-
----
-
-### ⭐ If you found this project interesting, consider giving it a star!
