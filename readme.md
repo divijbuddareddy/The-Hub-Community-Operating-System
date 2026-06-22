@@ -1,6 +1,6 @@
 # 🚀  AI Community Operating System
 
-> An Agentic AI-powered platform that transforms community management through intelligent member profiling, matchmaking, event recommendations, and collaboration discovery.
+> An Agentic AI-powered System that transforms community management through intelligent member profiling, matchmaking, event recommendations, and collaboration discovery.
 
 ---
 
