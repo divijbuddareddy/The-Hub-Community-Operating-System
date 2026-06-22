@@ -23,7 +23,7 @@ Traditional community management methods do not scale efficiently.
 
 ## 💡 Solution
 
-The Hub Community Operating System is an AI-powered multi-agent platform that automates community intelligence.
+The Hub Community Operating System is an AI-powered multi-agent System that automates community intelligence.
 
 The system:
 
